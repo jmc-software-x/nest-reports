@@ -1,0 +1,1 @@
+export { getHelloWorldDocDefinition } from "./helloworld";
