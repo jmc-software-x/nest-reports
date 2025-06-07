@@ -21,4 +21,5 @@
         "**/node_modules": true,
         "**/dist": true,
     },
+    "material-icon-theme.activeIconPack": "nest",
 }
